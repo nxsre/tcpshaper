@@ -1,4 +1,4 @@
-module github.com/gerritjvv/tcpshaper
+module github.com/nxsre/tcpshaper
 
 go 1.12
 
