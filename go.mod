@@ -1,6 +1,6 @@
 module github.com/nxsre/tcpshaper
 
-go 1.12
+go 1.18
 
 require (
 	golang.org/x/crypto v0.0.0-20200208060501-ecb85df21340 // indirect

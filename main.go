@@ -3,7 +3,7 @@ package main
 import (
   "context"
   "fmt"
-  "github.com/gerritjvv/tcpshaper/bandwidth"
+  "github.com/nxsre/tcpshaper/bandwidth"
   "net"
 )
 
